@@ -21,8 +21,8 @@ Instructions on how to use them in your own application are linked below.
 | 13 | Ручной\Код |
 | 14 |  |
 | 15 |  |
-| 16 |  |
-| 17 |  |
+| 16 | Код |
+| 17 | Код (есть файл) |
 | 18 |  |
 | 19 |  |
 | 20 |  |
