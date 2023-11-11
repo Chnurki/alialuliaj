@@ -1,0 +1,5 @@
+ int main()  
+ {              
+ cout<<“HelloWorld”;    //Вывод текста на экран
+ return 0; 
+  }              
